@@ -1,5 +1,7 @@
 # TPA-LSTM
 
+Original Implementation of [''Temporal Pattern Attention for Multivariate Time Series Forecasting''](https://arxiv.org/abs/1809.04206).
+
 ## Dependencies
 
 * python3.6.6
